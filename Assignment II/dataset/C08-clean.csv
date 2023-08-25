@@ -1,0 +1,253 @@
+State_Code,Literacy_Group,Total - Persons,Total - Males,Total - Females
+00,Illiterate,447216165,188506636,258709529
+00,Literate,763638812,434763622,328875190
+00,Literate but below primary,146897597,78445099,68452498
+00,Primary but below middle,184170833,99311072,84859761
+00,Middle but below matric/secondary,133903266,77629578,56273688
+00,Matric/Secondary but below graduate,192193344,116331881,75861463
+00,Graduate and above,68288971,42120460,26168511
+01,Illiterate,5474069,2375991,3098078
+01,Literate,7067233,4264671,2802562
+01,Literate but below primary,987774,541130,446644
+01,Primary but below middle,1285909,719512,566397
+01,Middle but below matric/secondary,1666381,1015129,651252
+01,Matric/Secondary but below graduate,2244013,1443868,800145
+01,Graduate and above,653764,401279,252485
+02,Illiterate,1824866,729283,1095583
+02,Literate,5039736,2752590,2287146
+02,Literate but below primary,611475,326058,285417
+02,Primary but below middle,1162995,576764,586231
+02,Middle but below matric/secondary,826611,452919,373692
+02,Matric/Secondary but below graduate,1852386,1076380,776006
+02,Graduate and above,446609,251164,195445
+03,Illiterate,9036201,4203409,4832792
+03,Literate,18707137,10436056,8271081
+03,Literate but below primary,2227684,1273936,953748
+03,Primary but below middle,4288200,2273540,2014660
+03,Middle but below matric/secondary,3066305,1747063,1319242
+03,Matric/Secondary but below graduate,6755536,3945160,2810376
+03,Graduate and above,1760846,873776,887070
+04,Illiterate,250012,115317,134695
+04,Literate,805438,465346,340092
+04,Literate but below primary,90869,51211,39658
+04,Primary but below middle,130243,73645,56598
+04,Middle but below matric/secondary,111879,67964,43915
+04,Matric/Secondary but below graduate,265112,161391,103721
+04,Graduate and above,194453,104748,89705
+05,Illiterate,3205339,1274065,1931274
+05,Literate,6880953,3863708,3017245
+05,Literate but below primary,1034583,554430,480153
+05,Primary but below middle,1550574,803056,747518
+05,Middle but below matric/secondary,1406871,806770,600101
+05,Matric/Secondary but below graduate,1815486,1105814,709672
+05,Graduate and above,910288,512068,398220
+06,Illiterate,8752474,3700667,5051807
+06,Literate,16598988,9794067,6804921
+06,Literate but below primary,2473145,1403012,1070133
+06,Primary but below middle,3772022,2075334,1696688
+06,Middle but below matric/secondary,2705282,1557670,1147612
+06,Matric/Secondary but below graduate,5343778,3426435,1917343
+06,Graduate and above,1877085,1102809,774276
+07,Illiterate,4050174,1792470,2257704
+07,Literate,12737767,7194856,5542911
+07,Literate but below primary,1458061,796975,661086
+07,Primary but below middle,2230894,1197622,1033272
+07,Middle but below matric/secondary,1931411,1099958,831453
+07,Matric/Secondary but below graduate,3891873,2316711,1575162
+07,Graduate and above,2757844,1535972,1221872
+08,Illiterate,30273155,11862585,18410570
+08,Literate,38275282,23688412,14586870
+08,Literate but below primary,8083827,4423518,3660309
+08,Primary but below middle,10524424,6143552,4380872
+08,Middle but below matric/secondary,7319223,4788350,2530873
+08,Matric/Secondary but below graduate,7298204,5056123,2242081
+08,Graduate and above,3063282,2086247,977035
+09,Illiterate,85414786,36245546,49169240
+09,Literate,114397555,68234964,46162591
+09,Literate but below primary,21424480,11763367,9661113
+09,Primary but below middle,27798792,15505178,12293614
+09,Middle but below matric/secondary,23122728,14276668,8846060
+09,Matric/Secondary but below graduate,26270147,16809553,9460594
+09,Graduate and above,9919838,6378138,3541700
+10,Illiterate,51594899,22670134,28924765
+10,Literate,52504553,31608023,20896530
+10,Literate but below primary,13701980,7308358,6393622
+10,Primary but below middle,13154969,7625383,5529586
+10,Middle but below matric/secondary,7969599,4930890,3038709
+10,Matric/Secondary but below graduate,11234040,7458931,3775109
+10,Graduate and above,3061676,2326092,735584
+11,Illiterate,165625,71801,93824
+11,Literate,444952,251269,193683
+11,Literate but below primary,116100,66658,49442
+11,Primary but below middle,115601,62664,52937
+11,Middle but below matric/secondary,69545,37520,32025
+11,Matric/Secondary but below graduate,91178,53420,37758
+11,Graduate and above,32669,19290,13379
+12,Illiterate,617722,274044,343678
+12,Literate,766005,439868,326137
+12,Literate but below primary,164976,88788,76188
+12,Primary but below middle,189369,102518,86851
+12,Middle but below matric/secondary,145848,82535,63313
+12,Matric/Secondary but below graduate,188681,115956,72725
+12,Graduate and above,53606,36430,17176
+13,Illiterate,636068,300692,335376
+13,Literate,1342434,723957,618477
+13,Literate but below primary,258594,134218,124376
+13,Primary but below middle,330358,170554,159804
+13,Middle but below matric/secondary,304611,164734,139877
+13,Matric/Secondary but below graduate,281452,160007,121445
+13,Graduate and above,89718,53023,36695
+14,Illiterate,947318,398728,548590
+14,Literate,1908476,1039858,868618
+14,Literate but below primary,243566,123662,119904
+14,Primary but below middle,326953,164889,162064
+14,Middle but below matric/secondary,457032,251129,205903
+14,Matric/Secondary but below graduate,563369,315644,247725
+14,Graduate and above,225620,135082,90538
+15,Illiterate,249031,116810,132221
+15,Literate,848175,438529,409646
+15,Literate but below primary,215865,105262,110603
+15,Primary but below middle,207450,108434,99016
+15,Middle but below matric/secondary,201482,104978,96504
+15,Matric/Secondary but below graduate,159276,83510,75766
+15,Graduate and above,49621,29527,20094
+16,Illiterate,869134,373007,496127
+16,Literate,2804783,1501369,1303414
+16,Literate but below primary,725461,363853,361608
+16,Primary but below middle,698656,363404,335252
+16,Middle but below matric/secondary,592396,320040,272356
+16,Matric/Secondary but below graduate,480515,285987,194528
+16,Graduate and above,137812,88621,49191
+17,Illiterate,1181884,577953,603931
+17,Literate,1785005,913879,871126
+17,Literate but below primary,609064,311818,297246
+17,Primary but below middle,412929,203761,209168
+17,Middle but below matric/secondary,297897,151272,146625
+17,Matric/Secondary but below graduate,290310,156544,133766
+17,Graduate and above,90519,46311,44208
+18,Illiterate,12027599,5370804,6656795
+18,Literate,19177977,10568639,8609338
+18,Literate but below primary,4550439,2469904,2080535
+18,Primary but below middle,4383390,2378849,2004541
+18,Middle but below matric/secondary,4285011,2248173,2036838
+18,Matric/Secondary but below graduate,3993107,2304914,1688193
+18,Graduate and above,1011345,639241,372104
+19,Illiterate,29737834,12990217,16747617
+19,Literate,61538281,33818810,27719471
+19,Literate but below primary,15902612,8437465,7465147
+19,Primary but below middle,14954591,7897027,7057564
+19,Middle but below matric/secondary,12474301,6684464,5789837
+19,Matric/Secondary but below graduate,11189459,6540090,4649369
+19,Graduate and above,4827817,3088673,1739144
+20,Illiterate,14660065,6047796,8612269
+20,Literate,18328069,10882519,7445550
+20,Literate but below primary,4293415,2292684,2000731
+20,Primary but below middle,4808604,2752242,2056362
+20,Middle but below matric/secondary,3091107,1895039,1196068
+20,Matric/Secondary but below graduate,4021045,2579486,1441559
+20,Graduate and above,1328477,906174,422303
+21,Illiterate,15231623,6122455,9109168
+21,Literate,26742595,15089681,11652914
+21,Literate but below primary,5886571,3126770,2759801
+21,Primary but below middle,7714716,4157327,3557389
+21,Middle but below matric/secondary,5285243,3035765,2249478
+21,Matric/Secondary but below graduate,5178562,3122104,2056458
+21,Graduate and above,1783797,1174184,609613
+22,Illiterate,10165276,4025002,6140274
+22,Literate,15379922,8807893,6572029
+22,Literate but below primary,3687369,2011523,1675846
+22,Primary but below middle,4192144,2267581,1924563
+22,Middle but below matric/secondary,3202404,1825488,1376916
+22,Matric/Secondary but below graduate,2856326,1815791,1040535
+22,Graduate and above,1018853,659081,359772
+23,Illiterate,29775640,12437978,17337662
+23,Literate,42851169,25174328,17676841
+23,Literate but below primary,9582214,5242949,4339265
+23,Primary but below middle,11878241,6640472,5237769
+23,Middle but below matric/secondary,8431000,5094579,3336421
+23,Matric/Secondary but below graduate,7744058,5009908,2734150
+23,Graduate and above,3222802,2051127,1171675
+24,Illiterate,19346334,8016387,11329947
+24,Literate,41093358,23474873,17618485
+24,Literate but below primary,8462829,4486708,3976121
+24,Primary but below middle,10557001,5568559,4988442
+24,Middle but below matric/secondary,6453935,4031450,2422485
+24,Matric/Secondary but below graduate,9984720,6193323,3791397
+24,Graduate and above,3174158,1891932,1282226
+25,Illiterate,54841,25658,29183
+25,Literate,188406,124643,63763
+25,Literate but below primary,26623,15332,11291
+25,Primary but below middle,41447,26048,15399
+25,Middle but below matric/secondary,35626,24792,10834
+25,Matric/Secondary but below graduate,64988,45447,19541
+25,Graduate and above,12802,8425,4377
+26,Illiterate,120479,51239,69240
+26,Literate,223230,142521,80709
+26,Literate but below primary,43709,24482,19227
+26,Primary but below middle,48436,28803,19633
+26,Middle but below matric/secondary,37385,24919,12466
+26,Matric/Secondary but below graduate,60876,43072,17804
+26,Graduate and above,19174,12227,6947
+27,Illiterate,30820043,12985472,17834571
+27,Literate,81554290,45257584,36296706
+27,Literate but below primary,15335820,8069806,7266014
+27,Primary but below middle,16628201,8346143,8282058
+27,Middle but below matric/secondary,12592729,7132530,5460199
+27,Matric/Secondary but below graduate,23790264,14262044,9528220
+27,Graduate and above,8639081,5167671,3471410
+28,Illiterate,34024017,14190903,19833114
+28,Literate,50556760,28251243,22305517
+28,Literate but below primary,7437519,3884076,3553443
+28,Primary but below middle,13449300,6904114,6545186
+28,Middle but below matric/secondary,5572154,3006742,2565412
+28,Matric/Secondary but below graduate,15028263,8885040,6143223
+28,Graduate and above,5577387,3632622,1944765
+29,Illiterate,20447975,8458186,11989789
+29,Literate,40647322,22508471,18138851
+29,Literate but below primary,6924069,3655942,3268127
+29,Primary but below middle,9493106,4944027,4549079
+29,Middle but below matric/secondary,5161708,2869395,2292313
+29,Matric/Secondary but below graduate,12381901,7129491,5252410
+29,Graduate and above,4043647,2489209,1554438
+30,Illiterate,293058,123317,169741
+30,Literate,1165487,615823,549664
+30,Literate but below primary,161303,80497,80806
+30,Primary but below middle,181495,94300,87195
+30,Middle but below matric/secondary,166523,91716,74807
+30,Matric/Secondary but below graduate,402429,226752,175677
+30,Graduate and above,146828,74077,72751
+31,Illiterate,11920,5100,6820
+31,Literate,52553,28023,24530
+31,Literate but below primary,9410,4523,4887
+31,Primary but below middle,12813,6500,6313
+31,Middle but below matric/secondary,11305,5970,5335
+31,Matric/Secondary but below graduate,13918,8275,5643
+31,Graduate and above,2302,1458,844
+32,Illiterate,5270237,2322509,2947728
+32,Literate,28135824,13704903,14430921
+32,Literate but below primary,4401497,2076920,2324577
+32,Primary but below middle,5065710,2522296,2543414
+32,Middle but below matric/secondary,5059809,2590783,2469026
+32,Matric/Secondary but below graduate,9706516,4755722,4950794
+32,Graduate and above,2531321,1131336,1399985
+33,Illiterate,20309523,8097484,12212039
+33,Literate,51837507,28040491,23797016
+33,Literate but below primary,5629379,2861589,2767790
+33,Primary but below middle,12325162,6479422,5845740
+33,Middle but below matric/secondary,9608004,5087592,4520412
+33,Matric/Secondary but below graduate,16331186,9206497,7124689
+33,Graduate and above,5457742,3119342,2338400
+34,Illiterate,290644,115133,175511
+34,Literate,957309,497378,459931
+34,Literate but below primary,93186,45162,48024
+34,Primary but below middle,187723,89632,98091
+34,Middle but below matric/secondary,171301,85255,86046
+34,Matric/Secondary but below graduate,336296,185024,151272
+34,Graduate and above,142029,79482,62547
+35,Illiterate,86300,38494,47806
+35,Literate,294281,164377,129904
+35,Literate but below primary,42129,22513,19616
+35,Primary but below middle,68415,37920,30495
+35,Middle but below matric/secondary,68620,39337,29283
+35,Matric/Secondary but below graduate,84074,47467,36607
+35,Graduate and above,24159,13622,10537
